@@ -4,9 +4,11 @@ To find out more, check out the provided research paper:
   * "Generative Deep Learning for Virtuosic Classical Music.pdf" (arXiv:2101.00169)
 
 # Usage
+For data used in my experiments:
   * All datasets can be found in [AllDatasets.zip](https://yadi.sk/d/BdyBP6SpI1-HVg), only the full original dataset (the "paganini" folder) is provided in this repository.  
   * My most recent pre-trained weights can be found in [Weights.zip](https://yadi.sk/d/CULFtvqj9nMbjA).
   * All output compositions by my model can be found in [ProjectOutput.zip](https://yadi.sk/d/-J_1BUkPikiedw).
+
 **NOTE:** these folders should be placed in the **same** folder as "finalProject.py". For folder existing conflicts, simply merge the directories.
 
 In finalProject.py, the "fpmain" function acts as the controller for the model, where calls to train the model, create a prediction, run the SVM, and all other functions are called.
