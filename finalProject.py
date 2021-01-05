@@ -610,6 +610,8 @@ def fpmain():
                100, 'paganini', 430, verbose=False)
     averagesvm('run/compose/0003_presto/output/--------output-20201130-200651.mid',
                100, 'paganini', 430, verbose=False)
-
     # Note to self: if training on shorter sequences fails,
     #   try smaller sequences and perform prediction on existing snippets
+
+    
+fpmain()
