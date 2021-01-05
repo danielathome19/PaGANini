@@ -11,6 +11,7 @@ For data used in my experiments:
 
 **NOTE:** these folders should be placed in the **same** folder as "finalProject.py". For folder existing conflicts, simply merge the directories.
 
+
 In finalProject.py, the "fpmain" function acts as the controller for the model, where calls to train the model, create a prediction, run the SVM, and all other functions are called.
 The code has been updated to include a call to fpmain at the bottom, but one may also call this function from an external script ("from finalProject import fpmain").
 
