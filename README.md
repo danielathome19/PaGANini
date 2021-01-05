@@ -1,5 +1,7 @@
 # About
 PaGANini is a generative adversarial network trained to compose virtuosic classical music with an SVM discriminator system (C-RNN-GAN) 
+To find out more, check out the provided research paper:
+    * "Generative Deep Learning for Virtuosic Classical Music.pdf" (arXiv:2101.00169)
 
 # Usage
 In finalProject.py, the "fpmain" function acts as the controller for the model, where calls to train the model, create a prediction, run the SVM, and all other functions are called.
