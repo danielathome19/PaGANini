@@ -1,7 +1,7 @@
 # About
 PaGANini is a generative adversarial network trained to compose virtuosic classical music with an SVM discriminator system (C-RNN-GAN) 
 To find out more, check out the provided research paper:
-  * "Generative Deep Learning for Virtuosic Classical Music.pdf" (DOI: 10.48550/arxiv.2101.00169)
+  * "Generative Deep Learning for Virtuosic Classical Music.pdf" (DOI: [10.48550/arxiv.2101.00169](https://doi.org/10.48550/arxiv.2101.00169))
 
 The survey mentioned in my research paper for the musical likeness can be found at [GanSurvey](http://danielszelogowski.com/gansurvey/).
 
