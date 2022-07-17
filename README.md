@@ -26,3 +26,17 @@ Please use the issue tracker for the following purpose:
   * To raise a bug request; do include specific details and label it appropriately.
   * To suggest any improvements in existing features.
   * To suggest new features or structures or applications.
+
+# Citation
+If you use this code for your research, please cite this project:
+```
+@software{Szelogowski_PaGANini_2020,
+ author = {Szelogowski, Daniel},
+ doi = {10.48550/arxiv.2101.00169},
+ month = {12},
+ title = {{PaGANini}},
+ url = {https://github.com/danielathome19/PaGANini},
+ version = {1.0.0},
+ year = {2020}
+}
+```
